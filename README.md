@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Laiba Saadiq
+# Hi, I'm Laiba Saadiq
 
-🎓 Software Engineering Student
-💻 Passionate about building real-world applications and solving problems through code
+ Software Engineering Student
+
+ Passionate about building real-world applications and solving problems through code
 
 ---
 
@@ -40,35 +41,35 @@
 
 ## 🌟 Featured Projects
 
-### 🍯 Bakery Website
+###  Bakery Website 🍯
 
 Fully functional bakery website with modern UI and responsive design
 🔗 https://honyedbakery.vercel.app
 
 ---
 
-### ❤️ Valentine Interactive Website
+###  Valentine Interactive Website ❤️
 
 Creative interactive themed website with animations
 🔗 https://valentine-proposal-seven-orcin.vercel.app/
 
 ---
 
-### 🎮 C++ Game (Parallel & Distributed Computing)
+###  C++ Game (Parallel & Distributed Computing) 🎮
 
 Game built in C++ demonstrating logic and performance concepts
 🔗 (Add GitHub repo link here)
 
 ---
 
-### 🌐 Personal Portfolio (In Progress)
+###  Personal Portfolio (In Progress) 🌐
 
 Personal portfolio showcasing my work and skills
 🔗 (Add GitHub or live link here)
 
 ---
 
-## 📫 Contact Me
+##  Contact Me 📫
 
 📧 Email: [fa23-bse-069@cuilahore.edu.pk](mailto:fa23-bse-069@cuilahore.edu.pk)
 💼 GitHub: https://github.com/laiba-sadiqq
